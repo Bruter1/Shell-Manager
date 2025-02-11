@@ -1,5 +1,7 @@
 Shell Manager
 
+Run: python Main.py
+
 Password: shell
 
 
